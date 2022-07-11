@@ -100,4 +100,4 @@
 **writee_handlers.c**
 * contains write functions.
 
-By Oliver Samuel and Alimi Kehinde Sherifah
+By Odibe Ekene and Peter Imade
